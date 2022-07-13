@@ -1,0 +1,13 @@
+C:\Users\an_an\Documents\Ashley\Programming-Projects\Coding-tasks\SimCorp\1-readfile\CodingTask\CodingTask\bin\Debug\netcoreapp3.1\CodingTask.exe
+C:\Users\an_an\Documents\Ashley\Programming-Projects\Coding-tasks\SimCorp\1-readfile\CodingTask\CodingTask\bin\Debug\netcoreapp3.1\CodingTask.deps.json
+C:\Users\an_an\Documents\Ashley\Programming-Projects\Coding-tasks\SimCorp\1-readfile\CodingTask\CodingTask\bin\Debug\netcoreapp3.1\CodingTask.runtimeconfig.json
+C:\Users\an_an\Documents\Ashley\Programming-Projects\Coding-tasks\SimCorp\1-readfile\CodingTask\CodingTask\bin\Debug\netcoreapp3.1\CodingTask.runtimeconfig.dev.json
+C:\Users\an_an\Documents\Ashley\Programming-Projects\Coding-tasks\SimCorp\1-readfile\CodingTask\CodingTask\bin\Debug\netcoreapp3.1\CodingTask.dll
+C:\Users\an_an\Documents\Ashley\Programming-Projects\Coding-tasks\SimCorp\1-readfile\CodingTask\CodingTask\bin\Debug\netcoreapp3.1\CodingTask.pdb
+C:\Users\an_an\Documents\Ashley\Programming-Projects\Coding-tasks\SimCorp\1-readfile\CodingTask\CodingTask\obj\Debug\netcoreapp3.1\CodingTask.csprojAssemblyReference.cache
+C:\Users\an_an\Documents\Ashley\Programming-Projects\Coding-tasks\SimCorp\1-readfile\CodingTask\CodingTask\obj\Debug\netcoreapp3.1\CodingTask.AssemblyInfoInputs.cache
+C:\Users\an_an\Documents\Ashley\Programming-Projects\Coding-tasks\SimCorp\1-readfile\CodingTask\CodingTask\obj\Debug\netcoreapp3.1\CodingTask.AssemblyInfo.cs
+C:\Users\an_an\Documents\Ashley\Programming-Projects\Coding-tasks\SimCorp\1-readfile\CodingTask\CodingTask\obj\Debug\netcoreapp3.1\CodingTask.csproj.CoreCompileInputs.cache
+C:\Users\an_an\Documents\Ashley\Programming-Projects\Coding-tasks\SimCorp\1-readfile\CodingTask\CodingTask\obj\Debug\netcoreapp3.1\CodingTask.dll
+C:\Users\an_an\Documents\Ashley\Programming-Projects\Coding-tasks\SimCorp\1-readfile\CodingTask\CodingTask\obj\Debug\netcoreapp3.1\CodingTask.pdb
+C:\Users\an_an\Documents\Ashley\Programming-Projects\Coding-tasks\SimCorp\1-readfile\CodingTask\CodingTask\obj\Debug\netcoreapp3.1\CodingTask.genruntimeconfig.cache
